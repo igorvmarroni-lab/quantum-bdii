@@ -195,4 +195,4 @@ if __name__ == "__main__":
 
 3. Cola TODO o código acima
 
-4. Clica "Commit new file" (botão verde)
+4. Clica "Commit new file" (botão verde) 
